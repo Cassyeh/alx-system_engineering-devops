@@ -12,7 +12,7 @@ def number_of_subscribers(subreddit):
     (not active users, total subscribers) for a given subreddit.
     """
 
-    url = f"https://www.reddit.com/r/{subreddit}/about.json"
+    url = "https://www.reddit.com/r/{}/about.json".format(subreddit)
     headers = {"User-Agent": "Cassyeh-GitHub"}
     try:
         response = requests.get(url, headers=headers)
