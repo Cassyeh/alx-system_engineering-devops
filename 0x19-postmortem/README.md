@@ -16,7 +16,7 @@
 ### **Timeline:**
 
 **Detection:**
-* Detected at December 15, 2023, 02:30 AM (UTC) through automated monitoring alerts on elevated error rates and response times.
+* Detected at January 15, 2023, 02:30 AM (UTC) through automated monitoring alerts on elevated error rates and response times.
 
 **Actions Taken:**
 * Investigated backend systems to identify potential causes.
